@@ -1,6 +1,7 @@
 Sprint_3
 
 Протестировать API учебного сервиса http://qa-scooter.praktikum-services.ru/ с подключением JUnit 4, RestAssured, Allure.
+
 org.hamcrest.Matcher;
 org.junit.runner.RunWith;
 org.junit.runners.Parameterized;
